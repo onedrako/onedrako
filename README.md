@@ -1,18 +1,20 @@
 # Hi good person 👋 I'm Gabriel (OneDrako)
 
 <blockquote>
- <p>🎓 Self-taught programmer, learning everyday how to improve my code</p>
+ <p>🎓 Self-taught programmer, learning everyday how to improve my code.</p>
+ <p> For the moment I'm doing Web Development but not close to learn more about tech industry</p>
+ <p>  I like to learn, create and improve the things that are around me.</p>
 </blockquote>
 
 
 ## 🖥️ What I do
 
-### - React / Next JS Frontend Developer
+### - React / Next JS Frontend Developer.
 ### - Node / Express Backend Developer.
-### - Also I'm bachelor on Administration from UNAM
+### - Also I'm bachelor on Administration from UNAM.
 
 
-## 🐉 Me
+## 🐉 About Me
 💼   My Personal Web and [Portfolio](https://www.onedrako.com)
 
 <div>
@@ -21,8 +23,6 @@
   <p>LinkedIn Profile</p>
 </a>
 </div>
-
-
 
 
 
