@@ -2,8 +2,9 @@
 
 <blockquote>
  <p>🎓 Self-taught programmer, learning everyday how to improve my code.</p>
- <p>🌐 For the moment, I'm doing "Web Development" but never close to learn more about tech industry</p>
- <p>❤️ I like to learn, create and improve the things that are around me, and now that I know how to code, love to have my own projects.</p>
+ <p>🌐 For the moment, I'm doing "Web Development" but I'm never closed to learn more about tech industry or new things on other areas</p>
+ <p>❤️ I like to learn, create and improve the things that are around me, and now that I know how to code I love to have my own projects and create solutions.</p>
+ <p>🌋 Nowadays, I'm coding 1000 years in the volcanos!!!!.</p>
 </blockquote>
 
 
