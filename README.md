@@ -19,7 +19,7 @@
 💼   My Personal Web and [Portfolio](https://www.onedrako.com)
 
 <div>
-<a href="https://www.linkedin.com/in/gabrielhvaldez/">
+<a href="https://www.linkedin.com/in/gabrielhvaldez/?locale=en_US">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   <p>LinkedIn Profile</p>
 </a>
