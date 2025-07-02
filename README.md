@@ -11,7 +11,7 @@
 ## 🖥️ What I do
 
 ### - React / Next JS Frontend Developer.
-### - Node / Express Backend Developer.
+### - Node(Express JS) / Python(Django) Backend Developer.
 ### - Also I'm bachelor on Administration from UNAM.
 
 
@@ -20,7 +20,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/gabrielhvaldez/?locale=en_US">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
   <p>LinkedIn Profile</p>
 </a>
 </div>
