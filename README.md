@@ -16,7 +16,7 @@
 
 
 ## 🐉 About Me
-💼   My Personal Web and [Portfolio](https://www.onedrako.com)
+💼   My Personal Web and [Portfolio](/)
 
 <div>
 <a href="https://www.linkedin.com/in/gabrielhvaldez/?locale=en_US">
